@@ -1,5 +1,5 @@
 # 立案
-背景见诉状和[原告证据清单](https://github.com/nozominull/zidieyuanzhiqingquan/blob/main/%E5%BA%AD%E5%AE%A1%E8%B5%84%E6%96%99/%E5%8E%9F%E5%91%8A%E8%AF%81%E6%8D%AE%E6%B8%85%E5%8D%95.pdf)，这里就不赘述了。本文主要介绍怎样立案。本文提到的相关文件模板见当地法院网站，比如[西湖区法院](http://court.hzxh.gov.cn/col/col1212999/index.html)。不要用微信小程序(人民法院在线服务)自带的，非常难用，而且不能保证该填的都有地方填。最好电脑上用根据模板写好然后传到微信小程序里。
+背景见[诉状](https://github.com/nozominull/zidieyuanzhiqingquan/blob/main/%E5%BA%AD%E5%AE%A1%E8%B5%84%E6%96%99/%E6%B0%91%E4%BA%8B%E8%B5%B7%E8%AF%89%E7%8A%B6.pdf)和[原告证据清单](https://github.com/nozominull/zidieyuanzhiqingquan/blob/main/%E5%BA%AD%E5%AE%A1%E8%B5%84%E6%96%99/%E5%8E%9F%E5%91%8A%E8%AF%81%E6%8D%AE%E6%B8%85%E5%8D%95.pdf)，这里就不赘述了。本文主要介绍怎样立案。本文提到的相关文件模板见当地法院网站，比如[西湖区法院](http://court.hzxh.gov.cn/col/col1212999/index.html)。不要用微信小程序(人民法院在线服务)自带的，非常难用，而且不能保证该填的都有地方填。最好电脑上用根据模板写好然后传到微信小程序里。
 
 ## 民事起诉状
 参照模板。
